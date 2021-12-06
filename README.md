@@ -11,7 +11,7 @@ Ao final, a contrução dos mapas, utilizando a ferramenta do **Power BI** para 
 Acesse a explicação completa [aqui](https://youtu.be/YvNNWWA-BfQ)
 
 ### Contribuição dos integrantes
- - Ian Sandes: 
+ - Ian Sandes: Pesquisas sobre a base, aplicação de análise de dados na base, aplicação de algoritmos de clusterização, criação de mapas cloropléticos para visualização.
  - Jose Everton:
 
 
