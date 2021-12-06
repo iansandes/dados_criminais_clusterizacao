@@ -12,7 +12,7 @@ Acesse a explicação completa [aqui](https://youtu.be/YvNNWWA-BfQ)
 
 ### Contribuição dos integrantes
  - Ian Sandes: Pesquisas sobre a base, aplicação de análise de dados na base, aplicação de algoritmos de clusterização, criação de mapas cloropléticos para visualização.
- - Jose Everton:
+ - Jose Everton: Pré-processamento da base, relacionamento com uma nova base, agrupamento dos dados, aplicação de análise de dados, aplicação dos algoritmos de clusterização.
 
 
 ## Resultado da Visualização
